@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+boas vindas ao meu perfil 
+meu nome é Marcos Henrique 
+estou estudando na Alura 
 <!--
 **Markinhoss777/Markinhoss777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
